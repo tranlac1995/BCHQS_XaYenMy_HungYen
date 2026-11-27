@@ -1,11 +1,11 @@
 
 {
-  "id": "/BCHQS_XaYenMy_HungYen/",
-  "name": "BCHQS_XaYenMy_HungYen",
-  "short_name": "BCHQS_XaYenMy_HungYen",
-  "description": "BCHQS_XaYenMy_HungYen",
-  "start_url": "/BCHQS_XaYenMy_HungYen/",
-  "scope": "/BCHQS_XaYenMy_HungYen/",
+  "id": "/nguyenbaviet_Tieudoan2_sudoan7/",
+  "name": "Phòng Hồ Chí Minh - Tiểu đoàn 2",
+  "short_name": "Tiểu đoàn 2",
+  "description": "Ứng dụng Phòng Hồ Chí Minh - Tiểu đoàn 2",
+  "start_url": "/nguyenbaviet_Tieudoan2_sudoan7/",
+  "scope": "/nguyenbaviet_Tieudoan2_sudoan7/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
